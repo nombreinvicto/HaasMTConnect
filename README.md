@@ -1,4 +1,4 @@
-# HAAS_MTConnect
+# HAAS VF2 MTConnect Adapter
 An MTConnect adapter for the HAAS VF2 CNC machine written in Python
 
 # Introduction
